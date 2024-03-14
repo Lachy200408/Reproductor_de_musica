@@ -98,7 +98,7 @@ html, body{
 	height: 10%;
 	display: flex;
 	align-items: center;
-	justify-content: space-around;
+	justify-content: center;
 }
 
 .botonCPanel{
@@ -139,6 +139,7 @@ html, body{
 	position: relative;
 	height: 8px;
 	width: max(200px, 70vw);
+	margin-inline: 32px;
 	background-color: #00000048;
 }
 
